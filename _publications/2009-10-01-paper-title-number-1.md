@@ -8,8 +8,6 @@ venue: 'Chinese Journal of Communication'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Cheryl S. Y. Shea & Francis L. F. Lee (2022): Public diplomacy via Twitter: opportunities and tensions, Chinese Journal of Communication, DOI: 10.1080/17544750.2022.2081988'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Cheryl S. Y. Shea & Francis L. F. Lee (2022): Public diplomacy via Twitter: opportunities and tensions, Chinese Journal of Communication, DOI: 10.1080/17544750.2022.2081988.
