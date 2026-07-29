@@ -6,6 +6,5 @@ related_posts: false
 ---
 
 My first-authored collaborative paper with Professor Bret Shaw’s team is now out in [Information, Communication & Society](https://doi.org/10.1080/1369118X.2026.2665795)!
-We look at how people get community information across social media and news platforms—and how that connects to civic participation and feeling like they belong. One fun finding: Facebook and TikTok don’t seem to work in quite the same way. They relate differently to what people do in their communities and how connected they feel to them.
-We also bring physical places into the picture and reveal how farmers markets amplify media effects on civic engagement.
-If you are interested in strengthening local communities, or in how social-media platforms shape civic life, please have a read :)
+We look at how people get community information across social media and news platforms as well as how that connects to civic participation and feeling like they belong. One fun finding is that attention paid to Facebook and TikTok for community information work in different ways! One related positively to participation while another one is associated positively to how connected they feel to their neigborhood. We also bring physical places into the picture and uncovered the potential of farmers markets in amplifying media effects on civic engagement.
+If you are interested in strengthening local communities or in how social-media platforms shape civic life, please have a read :)
