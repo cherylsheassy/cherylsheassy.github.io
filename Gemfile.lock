@@ -381,7 +381,6 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
-  sass-embedded (= 1.100.0)
 
 CHECKSUMS
   activesupport (7.2.3.1) sha256=11ebed516a43a0bb47346227a35ebae4d9427465a7c9eb197a03d5c8d283cb34
